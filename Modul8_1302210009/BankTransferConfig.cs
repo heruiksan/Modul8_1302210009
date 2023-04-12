@@ -13,6 +13,7 @@ namespace Modul8_1302210009
     {
         public bankConfig config;
         public const string filepath = @"bank_transfer_config.json";
+        //cc
 
         public BankTransferConfig()
         {
